@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ErrorMessage</name>
+   <tag></tag>
+   <elementGuidId>668da8f5-8c2d-4a6f-9724-9b0e309bceb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Ekjuhf.Jj6Lae</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div/div/form/span/section/div/div/div/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95f80e38-dc4a-4b84-adbf-05c5bc64dc98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Ekjuhf Jj6Lae</value>
+      <webElementGuid>e2b7472f-5827-411b-a22d-e36a805978fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tidak dapat menemukan Akun Google Anda</value>
+      <webElementGuid>aeb98eab-a138-49b2-ab42-4b8400e879a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;A77ntc&quot;]/div[@class=&quot;Svhjgc&quot;]/div[@class=&quot;UXFQgc&quot;]/div[@class=&quot;qWK5J&quot;]/div[@class=&quot;xKcayf&quot;]/div[@class=&quot;AcKKx&quot;]/form[1]/span[1]/section[@class=&quot;Em2Ord&quot;]/div[@class=&quot;yTaH4c&quot;]/div[1]/div[@class=&quot;AFTWye  vEQsqe&quot;]/div[@class=&quot;rFrNMe X3mtXb UOsO2 ToAxb zKHdkd sdJrJc Tyc9J CDELXb k0tWj IYewr&quot;]/div[@class=&quot;LXRPh&quot;]/div[@class=&quot;dEOOab RxsGPe&quot;]/div[@class=&quot;Ekjuhf Jj6Lae&quot;]</value>
+      <webElementGuid>8951a67e-7c76-4eaf-a01d-c6636ffb0319</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div/div/form/span/section/div/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>bbb89ed2-284d-4b54-96b0-2bdeaf8f65cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gunakan Akun Google Anda'])[1]/following::div[18]</value>
+      <webElementGuid>b2db94e4-5bc4-41be-8298-b5d93a5bf2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[19]</value>
+      <webElementGuid>dc9d2a01-4d30-464c-8939-0a8d0ed55b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa email?'])[1]/preceding::div[2]</value>
+      <webElementGuid>c17ecf01-2fb9-41f4-970d-7958050cb520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tidak dapat menemukan Akun Google Anda']/parent::*</value>
+      <webElementGuid>0f42973d-ba9b-4b65-848b-35bfe076aec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>255d10db-282a-4bd6-be38-fb5fc2860e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tidak dapat menemukan Akun Google Anda' or . = 'Tidak dapat menemukan Akun Google Anda')]</value>
+      <webElementGuid>e357378c-f61f-4a5b-a1c6-7b23c6b0f107</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

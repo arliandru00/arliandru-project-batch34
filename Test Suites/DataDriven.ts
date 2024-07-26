@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>GetDatafromExcel</description>
+   <name>DataDriven</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>cf1c7cfe-4395-48fd-be07-448f66868a1f</testSuiteGuid>
+   <testCaseLink>
+      <guid>32bf8b6e-ff4d-4b9f-939b-5701f639443a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/UjiCoba/TC001-loginLoopingNYOBA</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ceefaac3-e097-4904-a234-1df0152885c2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/UserSaucedemo</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bb835a25-8df9-4218-85a2-2cf08a81ce92</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/UserNyoba</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>bb835a25-8df9-4218-85a2-2cf08a81ce92</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>3f04a22d-2350-48b7-833c-eb0e24d503aa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bb835a25-8df9-4218-85a2-2cf08a81ce92</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>134b2d79-3a68-419b-a4b5-42fb07dd3e4a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
